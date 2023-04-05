@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQES-ES\\CQRS.Core\\CQRS.Core.csproj": {}
+    "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {}
   },
   "projects": {
-    "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQES-ES\\CQRS.Core\\CQRS.Core.csproj": {
+    "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQES-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectUniqueName": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQES-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQES-ES\\CQRS.Core\\obj\\",
+        "outputPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQRS-ES\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.16.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

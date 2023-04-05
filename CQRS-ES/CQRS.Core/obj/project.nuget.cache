@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "nb3Q++UWwKDNPUOziOQo9xtEjnC91YpPsgzIJkEjW29KRlzY4WNMLj2Qz7l7OC2z+cqPp3pQaEdKtSPe2EZJuQ==",
+  "dgSpecHash": "jYMSNU+ELrd4Aj4hkfE/StGdAf1YjDG6qZGr/ZsjcdWI2tlve0TXBhEcizUKitp7YX5gTwOcvtW4vrra9G2GrQ==",
   "success": true,
-  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQES-ES\\CQRS.Core\\CQRS.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\mongodb.driver\\2.16.1\\mongodb.driver.2.16.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\mongodb.driver.core\\2.16.1\\mongodb.driver.core.2.16.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\mongodb.libmongocrypt\\1.5.3\\mongodb.libmongocrypt.1.5.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
