@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "CQRS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "path": "../../CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+      "msbuildProject": "../../CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "CQRS.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\diego\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj",
+      "projectUniqueName": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj",
       "projectName": "Post.Common",
-      "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj",
+      "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Common\\obj\\",
+      "outputPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

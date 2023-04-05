@@ -1,0 +1,15 @@
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ZkBxmewgZysa1y9Ipe8ozLqMhXfpjhFTBzLBJG8iBhRMMNWN7D4iDuY2LOopQ72u/VcikynnYTHzPVcWIaPfg==",
+  "dgSpecHash": "H3tJ6+dKejU2ZbmiykLhTBK2zNOfrIg/BooOkruZ/Ydzzn/F/oF/KYQyVihvOz09d+oQGGYmWeNsUbCepRjBtg==",
   "success": true,
-  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nb3Q++UWwKDNPUOziOQo9xtEjnC91YpPsgzIJkEjW29KRlzY4WNMLj2Qz7l7OC2z+cqPp3pQaEdKtSPe2EZJuQ==",
+  "dgSpecHash": "05ECYmUjnjWe8N3J2KRlhvw98bqhWNgvQLQQ/tj6s8eE8xcQYl3Hc4D8xBT+dlIkp4pE9YtGxoAsgFOsVzxLYw==",
   "success": true,
-  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\CQES-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvD9F9HaGMKgeOQ12Z52ylfq5ZLCGt21jxs1DoAgxqRIeznCkzd2MBl9FxyNKNmnrLWq4eSaKzTN7/2t0qOrdg==",
+  "dgSpecHash": "SwUTfGe0pRJEvVrgq/jYLK9PmvOQl2e3rqhO3lPlaSByNd5IUvijm1j7Da1eauMU4ruejPIfeaha0DXUCY4VnA==",
   "success": true,
-  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

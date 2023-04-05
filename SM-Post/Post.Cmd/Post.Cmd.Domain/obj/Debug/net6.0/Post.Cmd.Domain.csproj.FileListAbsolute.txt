@@ -1,0 +1,17 @@
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.deps.json
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\CQRS.Core.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Common.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\CQRS.Core.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Common.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfo.cs
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.CopyComplete
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\refint\Post.Cmd.Domain.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\ref\Post.Cmd.Domain.dll

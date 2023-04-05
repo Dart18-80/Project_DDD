@@ -1,0 +1,17 @@
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.deps.json
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\CQRS.Core.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Common.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\CQRS.Core.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Common.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.csproj.AssemblyReference.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.AssemblyInfoInputs.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.AssemblyInfo.cs
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.csproj.CopyComplete
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\refint\Post.Query.Domain.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.pdb
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\ref\Post.Query.Domain.dll

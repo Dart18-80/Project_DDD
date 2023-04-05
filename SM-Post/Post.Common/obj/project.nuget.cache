@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Tujl9qDkWZVeDnbdsUbBIj3AvL62tJMS86CzJfywZ4CdEaVV1z5KwysMwXaaN+a2Wos0xaUeBmTZmYUIc+75A==",
+  "dgSpecHash": "WwlW6y10r0uC+q52U87/+HhsweOlUyYn8cQ10hVIdawOsPMg5Al25G9XlvsLBdM5KfUVTqPGTYJp4zT83U4XjQ==",
   "success": true,
-  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj",
+  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
