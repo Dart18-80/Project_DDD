@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TvD9F9HaGMKgeOQ12Z52ylfq5ZLCGt21jxs1DoAgxqRIeznCkzd2MBl9FxyNKNmnrLWq4eSaKzTN7/2t0qOrdg==",
+  "success": true,
+  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

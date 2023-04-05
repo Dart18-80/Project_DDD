@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+        "projectName": "Post.Query.Api",
+        "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
