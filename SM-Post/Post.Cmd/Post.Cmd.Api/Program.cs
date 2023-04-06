@@ -1,10 +1,13 @@
 using Post.Cmd.Infrastructure.Config;
+using Post.Cmd.Infrastructure.Repositories;
+using CQRS.Core.Domain;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.Configure<MongoDbConfig>(builder.Configuration.GetSection(nameof(MongoDbConfig)));
+builder.Services.AddScoped<IEventStoreRepository, EventStoreRepository>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
