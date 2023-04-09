@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using CQRS.Core.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
+using CQRS.Core.Infrastructure;
+using CQRS.Core.Exceptions;
 using Post.Cmd.Api.Commands;
-using Post.Cmd.Api.DTOs;
 using Post.Common.DTOs;
 
 namespace Post.Cmd.Api.Controllers
@@ -13,31 +13,27 @@ namespace Post.Cmd.Api.Controllers
     [ApiController]
     [Route("api/v1/[controller]")]
 
-    public class NewPostController : ControllerBase
+    public class EditMessageController : ControllerBase
     {
         private readonly ILogger<NewPostController> _logger;
         private readonly ICommandDispacher _commandDispatcher;
-
-        public NewPostController( ILogger<NewPostController> logger, ICommandDispacher commandDispatcher )
+        public EditMessageController( ILogger<NewPostController> logger, ICommandDispacher commandDispatcher )
         {
             _logger = logger;
             _commandDispatcher = commandDispatcher;
         }
 
-        [HttpPost]
-        public async Task<ActionResult> NewPostAsync(NewPostCommand command)
+        [HttpPut("{id}")]
+        public async Task<ActionResult> EditMessageAsync (Guid id, EditMessageCommand command)
         {
-            var id = Guid.NewGuid();
             try
             {
                 command.Id = id;
-
                 await _commandDispatcher.SendAsync(command);
 
-                return StatusCode(StatusCodes.Status201Created, new NewPostResponse
+                return Ok( new BaseResponse 
                 {
-                    Id = id,
-                    Message = "New post creation request completed successfully!"
+                    Message = "Edit message request completed successfully!"
                 });
             }
             catch(InvalidOperationException ex)
@@ -48,14 +44,21 @@ namespace Post.Cmd.Api.Controllers
                     Message = ex.Message
                 });
             }
+            catch(AggregateNotFoundException ex)
+            {
+                _logger.Log(LogLevel.Warning, ex, "Could not retrive aggregate, client passed an incorrect post ID targetting the aggregate!");
+                return BadRequest( new BaseResponse
+                {
+                    Message = ex.Message
+                });
+            }
             catch (Exception ex)
             {
-                const string SAFE_ERROR_MESSAGE = "Error while processing request to create a new post!";
+                const string SAFE_ERROR_MESSAGE = "Error while processing request to edit the message of a post!";
                 _logger.Log(LogLevel.Error, ex, SAFE_ERROR_MESSAGE);
                 
-                return StatusCode( StatusCodes.Status500InternalServerError, new NewPostResponse
+                return StatusCode( StatusCodes.Status500InternalServerError, new BaseResponse
                 {
-                    Id = id,
                     Message = SAFE_ERROR_MESSAGE
                 });
             }
