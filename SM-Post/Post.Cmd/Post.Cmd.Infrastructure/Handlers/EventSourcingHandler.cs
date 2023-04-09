@@ -22,7 +22,7 @@ namespace Post.Cmd.Infrastructure.Handlers
             var aggregate = new PostAggregate();
             var events = await _eventStore.GetEventsAsync(aggregateId);
 
-            if(events == null || events.Any()) return aggregate;
+            if(events == null || !events.Any()) return aggregate;
 
             aggregate.ReplayEvents(events);
             var latestVersion = events.Select(x => x.Version).Max();
