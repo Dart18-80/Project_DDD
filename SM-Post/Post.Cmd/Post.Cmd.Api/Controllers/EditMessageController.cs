@@ -12,7 +12,6 @@ namespace Post.Cmd.Api.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]
-
     public class EditMessageController : ControllerBase
     {
         private readonly ILogger<EditMessageController> _logger;
