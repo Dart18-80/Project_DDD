@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+      "projectUniqueName": "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
       "projectName": "Post.Query.Domain",
-      "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+      "projectPath": "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\obj\\",
+      "outputPath": "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -717,11 +717,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
-              "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
             },
-            "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj": {
-              "projectPath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj"
+            "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Common\\Post.Common.csproj"
             }
           }
         }

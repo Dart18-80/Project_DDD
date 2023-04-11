@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJczyFdoqNGpWD57nneAcxmn9oUsGfa5S7mL0z1T7DqjaphUQjwy6PoKqpv18aSBiQSBcZDFW3xybEsRXlAW1g==",
+  "dgSpecHash": "H/I9TsQZ0/Q3ssD9hUNik999wPC9mW2QvpjWLAj//gQo3fFV1ZyOZHHdubtkWqHYjMLpntg3K3CNJ3RoPRdwXQ==",
   "success": true,
-  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+  "projectFilePath": "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\confluent.kafka\\1.9.0\\confluent.kafka.1.9.0.nupkg.sha512",

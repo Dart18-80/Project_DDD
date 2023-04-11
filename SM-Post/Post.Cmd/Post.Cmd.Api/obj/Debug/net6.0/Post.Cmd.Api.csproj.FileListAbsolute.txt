@@ -74,3 +74,4 @@ D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\
 D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\diego\Documents\Cursos\C#\Proyectos\DDD_Project\Project_DDD\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\FluentValidator.dll

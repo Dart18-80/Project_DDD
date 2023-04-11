@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EzZQybMHxCfRBUH4XM2veg+hkAsPDKutzFlBXpybY0ZQr2H6SBPBnihn1M3KEjs9uBqLV3fMSlqTb4Ce2ZiflQ==",
+  "dgSpecHash": "k3JmM30dAN8pA4fz13k6sISs5OS35ij9a6ZIduhejQQL6WJRuxFuuNuQvrjCZjs0298ElrE1jzNsv+mkKEBDxg==",
   "success": true,
-  "projectFilePath": "D:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+  "projectFilePath": "d:\\diego\\Documents\\Cursos\\C#\\Proyectos\\DDD_Project\\Project_DDD\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
